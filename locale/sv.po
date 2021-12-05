@@ -1,6 +1,6 @@
 # Translators:
 #
-# Lars "musselasse" Carlsson <musselasse@gmail.com>, 200X-2014
+# Lars "musselasse" Karlsson <musselasse@gmail.com>, 200X-2014, 2019-
 # A. Regnander <anton_r_3@hotmail.com>, 2018
 #
 msgid ""
@@ -34,22 +34,22 @@ msgstr "Okänd command line option: %s\n"
 #: crashreports/crashreporter/CrashReportApp.cpp
 #, fuzzy
 msgid "Unknown error"
-msgstr "Okänd"
+msgstr "Okänt fel"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #, fuzzy
 msgid "Problem Report for Audacity"
-msgstr "Lägger till stöd för Vamp-effekter i Audacity"
+msgstr "Problemrapport till Audacity"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgid "Click \"Send\" to submit the report to Audacity. This information is collected anonymously."
-msgstr ""
+msgstr "Klicka \"Skicka\" för att skicka rapport till Audacity. Denna information sänds anonymt".
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgid "Problem details"
-msgstr ""
+msgstr "Problem detaljer"
 
 #: crashreports/crashreporter/CrashReportApp.cpp src/Tags.cpp
 #: src/prefs/MousePrefs.cpp src/widgets/ErrorReportDialog.cpp
@@ -62,7 +62,7 @@ msgstr "Kommentarer"
 #: src/widgets/ErrorReportDialog.cpp
 #, fuzzy, c-format
 msgid "See %s for more info."
-msgstr "Välj en eller flera filer"
+msgstr "Se %s för mer info."
 
 #. i18n-hint: Title of hyperlink to the privacy policy. This is an
 #. object of "See".
@@ -73,33 +73,33 @@ msgstr "Välj en eller flera filer"
 #: src/prefs/ApplicationPrefs.cpp src/update/UpdateNoticeDialog.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgid "our Privacy Policy"
-msgstr ""
+msgstr "vår privat policy"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgctxt "crash reporter button"
 msgid "&Don't send"
-msgstr ""
+msgstr "&Skicka inte"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #: src/widgets/ErrorReportDialog.cpp
 msgctxt "crash reporter button"
 msgid "&Send"
-msgstr ""
+msgstr "&Skicka"
 
 #: crashreports/crashreporter/CrashReportApp.cpp
 #, fuzzy
 msgid "Failed to send crash report"
-msgstr "Kunde inte läsa förinställningsfil."
+msgstr "Misslyckades med att skicka crashrapport"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 msgid "Stream is active ... unable to gather information.\n"
-msgstr ""
+msgstr "Strömmande är aktiv... kunde inte samla information.\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 #, fuzzy, c-format
 msgid "Default recording device number: %d\n"
-msgstr "Välj inspelningsenhet"
+msgstr "Standard inspelningsenhet nummer: %d\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 #, c-format
@@ -119,37 +119,37 @@ msgstr "Enhetsinformation är inte tillgänglig."
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 #, fuzzy, c-format
 msgid "Device ID: %d\n"
-msgstr "Enhetspanel"
+msgstr "Enhet ID: %d\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 #, fuzzy, c-format
 msgid "Device name: %s\n"
-msgstr "Enheter"
+msgstr "Enhet namn: %s\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp src/NoteTrack.cpp
 #, fuzzy, c-format
 msgid "Host name: %s\n"
-msgstr "Namn: %s"
+msgstr "Värd namn: %s"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp
 #, fuzzy, c-format
 msgid "Recording channels: %d\n"
-msgstr "Inspelningskanaler"
+msgstr "Inspelningskanaler: %d\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp
 #, fuzzy, c-format
 msgid "Playback channels: %d\n"
-msgstr "Uppspelningsvolym: %s"
+msgstr "Uppspelningskanaler: %d\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp
 #, fuzzy, c-format
 msgid "Low Recording Latency: %g\n"
-msgstr "Inspelningens slut:"
+msgstr "Låg inspelning latency: %g\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp
 #, c-format
 msgid "Low Playback Latency: %g\n"
-msgstr ""
+msgstr "Låg upspelning latency: %g\n"
 
 #: libraries/lib-audio-devices/AudioIOBase.cpp
 #, fuzzy, c-format
